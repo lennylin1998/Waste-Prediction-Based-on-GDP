@@ -15,3 +15,5 @@ As many statistics shown, a country's GDP directly related to its waste generati
    Train, test the models, and visualize them on the graph
 ![4](https://github.com/lennylin1998/Waste-Prediction-Based-on-GDP/blob/main/graph%20images/newplot%20(3).png)
 3. Conclusion
+
+   KNN would be a better model with a lower GDP, and linear regression would give a more accurate result with higher GDP. 
